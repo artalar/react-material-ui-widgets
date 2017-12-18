@@ -1,0 +1,21 @@
+{
+  "name": "react-material-ui-widgets",
+  "description": "based on https://github.com/mui-org/material-ui v1+",
+  "version": "0.0.43",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "prop-types": "15.6.0",
+    "material-ui": "1.0.0-beta.16",
+    "lodash": "4.17.4"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
